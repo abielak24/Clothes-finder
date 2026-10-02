@@ -1,0 +1,5 @@
+# One store per line. Lines starting with # are ignored.
+# Shopify stores are read through their product feed; anything else
+# through its sitemap and product pages.
+#
+# example-brand.com
